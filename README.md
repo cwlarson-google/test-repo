@@ -2,8 +2,4 @@
 
 This is Casey's test Git repo
 
-hang on
-
-Some other change
-
-Some more stuff too
+Final website URL: FILL_ME_IN
